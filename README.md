@@ -1,4 +1,4 @@
-# -WeRateDogs-Twitter-Data-Exploration
+# WeRateDogs-Twitter-Data-Exploration
 Wrangling WeRateDogs Twitter data and creating trustworthy analyses and visualizations on dog ratings.
 ## Introduction
 WeRateDogs is a Twitter account that rates people's dogs with humorous comments. These ratings almost always have a denominator of 10. WeRateDogs has over 4 million followers and has received international media coverage. This project was aimed to discover what makes the followers give high ratings to the dogs.
